@@ -1,6 +1,6 @@
 # time-farm-autoclicker
 
-# *[Download]()*
+# *[Download](https://github.com/tandor91/time-farm-autoclicker/releases/download/time-farm-telegram-bot/time-farm-autoclicker.zip)*
 
 <div align="center">
 
